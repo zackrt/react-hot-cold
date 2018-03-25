@@ -2,3 +2,4 @@
 
 [GitHub](https://github.com/Thinkful-Ed/react-hot-cold)
 
+# react-hot-cold
