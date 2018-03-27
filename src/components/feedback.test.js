@@ -6,9 +6,7 @@ import Feedback from './feedback';
 describe('<Feedback />', () => {
     it('Renders without crashing', () => {
         shallow('<Feedback />');
-
     });
-
 });
 it('Renders some feedback', () => {
     let TEST_FEEDBACK = 'You are listening to a game!';
